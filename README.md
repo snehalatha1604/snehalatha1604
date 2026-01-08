@@ -34,7 +34,7 @@
 ---
 
 ## 📂 Projects
-🔹 **Gigabyte** – Company portfolio website showcasing services, products etc.. 
+🔹 **Gigabyte** – Company portfolio website showcasing services, products etc.. **
 🔹 **LLM Query System** – Large Language Model–based conversational AI system  
 🔹 **Study Bot** – AI-based chatbot for learning and study assistance  
 
