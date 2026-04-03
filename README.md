@@ -27,8 +27,7 @@
 
 ### 🧰 Tools
 - Git & GitHub  
-- VS Code  
-- Vite  
+- VS Code   
 
 ---
 
