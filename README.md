@@ -32,6 +32,7 @@
 ---
 
 ## 📂 Projects
+
 🔹 **LLM Query System** – Large Language Model–based conversational AI system  
 🔹 **Study Bot** – AI-based chatbot for learning and study assistance  
 
